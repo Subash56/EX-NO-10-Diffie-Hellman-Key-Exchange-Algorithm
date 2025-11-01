@@ -61,8 +61,8 @@ int main() {
 }
 ```
 
-### DEVELOPED BY : SUDHARSANAN U
-### REGISTER NUMBER : 212224230276
+### DEVELOPED BY : SUBASH B
+### REGISTER NUMBER : 212224220108
 
 ## Output:
 <img width="802" height="426" alt="Screenshot 2025-10-08 092752" src="https://github.com/user-attachments/assets/232aa639-1f4c-4438-9420-733ce432983b" />
